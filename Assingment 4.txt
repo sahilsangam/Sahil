@@ -1,0 +1,214 @@
+Q1. b) By using a for a loop
+Q2. b) A generator function
+Q3. c) 1 9
+Q4. d) All the above
+Q5. d)50
+Q6. c) I got decorated 
+       I am ordinary
+Q7. 
+Q8. b) getter(), setter() and delete()
+Q9. 
+Q10. Syntax error! You cannot assign function
+Q11. c) a = 10
+Q12. d) Neither statement is true
+Q13. c) Java
+Q14. a) Initialises the class for use
+Q15. b) 1 1
+Q16. d) None of the above code
+Q17. b)Muliple Inheritance 
+Q18. 
+Q19. b) 4 6
+Q20. c) opens the file for appending, at the end of file
+Q21. d)opens test.txt file in god mode
+Q22. d) Both of the above
+Q23. d) All of the above
+Q24. c)Prints all the directories and files inside the given directory
+Q25. a) An exception is an error that occurs in the runtime
+Q26. c) An exception is raised
+Q27. b) 2.0
+Q28. c)Prints Two if the TypeError or ZeroDivisionError exception occurs.
+Q29. b) You can create the user-defined exception by deriving a class from Exception class.
+Q30  b) The function is a piece of code that can perform a specific tas
+Q31. b)Python is awesome
+Q32. b) None object
+Q33. b) Hello ('Frodo', 'Sauron') 
+Q34. b)A function that calls itself.
+Q35. c) 25
+Q36. a) 10
+Q37. b) print(pi)
+Q38. a).operator
+Q39. b) (1,3,6)
+Q40. c) Nothing will be printed
+Q41. a) True
+Q42. a) 2 1
+Q43. d) Loops cannot have else statement in python
+Q44. b) 10
+Q45. c)4 is printed infinitely until the program closes
+Q46. b) Yes, for loop is more pythoic choice
+Q47. d) All of the above
+Q48. a) PYTHON
+Q49. d) All the above
+Q50. c) Any character such as the comma (,) or tab (\t) that is used to separate the column data
+Q51. a) The column names of the data
+Q52. b) csv.reader(my_data, delimiter='\t')
+Q53. a) The full line of the file as a string
+Q54. c)  
+Q55. 
+Q56. c) pandas.read_csv('hrdata.csv')
+Q57. b) open('dog_breeds.txt'.'r')
+Q58. animals/feline/
+Q59. open('jack_russell.png','rb')
+Q60. animals/ursine/bears.gif
+Q61. d) By using the withs statement
+Q62. animals/ursine/bears.gi
+Q63. b).read()
+Q64. a)1.8
+Q65. b)-2.97
+Q66. a)Positive numbers are rounded up, and negative numbers are rounded dow
+Q67. a)-0.05
+Q68. c)Round half up
+Q69. a)4.7
+Q70. 
+Q71. 
+Q72. a)class a
+Q73. 
+Q74. 
+Q75.
+Q76. a)A
+Q77. b)All with same abstraction
+Q78. d)As many levels of inheritance
+Q79. c)Object of lower-level classes must define all the default constructor
+Q80. d)Exceptions
+Q81. b)Compile-time exceptions only
+Q82. a)Try and catch
+Q83. a)An object must be created to catch the exception
+Q84. c)IOExceptions
+Q85. d)Both vase class and devived calss may produce exception
+Q86. b)Then catch block of the base class must be defined before the derived clas
+Q87. a)After derived class is not allowed by the compiler
+Q88. c)ClassFoundException 
+Q89. c)Both the base and derived class catch the blocks are importan
+Q90. c)Infinite loops
+Q91. d)Functions created to define the static members
+Q92. b)Having access to only constant members of a class.
+Q93. a)className.functionName
+Q94. d)created and initialised, only once
+Q95. d) Static member functions are implicitly overloaded
+Q96. d)Can’t be declared volatile
+Q97. a)Scope resolution
+Q98. c)Those can be initialised within the class
+Q99. b)Can’t be mutable
+Q100. a) Even if a class object is not created 
+Q101. d) all of the mentioned
+Q102. d)all of the mentioned
+Q103. a)arrange
+Q104. d)all of the mentioned
+Q105. b)column_stack
+Q106. b)false
+Q107. b)copy
+Q108. c)ixd_
+Q109. b)false
+Q110. a)The n-dimensional array object
+Q111. a)bufsize
+Q112. c) Many of the built-in functions are implemented in compiled C code
+Q113. b).type
+Q114. b)ones_like
+Q115. c) The output of the ufunc is necessarily a ndarray, if all the input arguments are ndarrays 
+Q116. a)setter
+Q117. a)True
+Q118. c)frexp
+Q119. c)fmin
+Q120. a)True
+Q121. d)none of the mentioned
+Q122. a)Pandas consist of a set of the label array data struction
+Q123. a) import pandas as pd
+Q124. DataFrame
+Q125. None of the mentioned
+Q126.b)RPy
+Q127. a)True
+Q128. c)statsmodels
+Q129. b)seaborn
+Q130. b)false
+Q131. d)None of the mentioned
+Q132. d)all of the mentionde
+Q133. a)pandaSDMX
+Q134. d)All of the mentioned
+Q135. d)none of the mentioned
+Q136. a)outPY
+Q137. a)True
+Q138. a)sci-kit-learn
+Q139. b)seaborn
+Q140. a)True
+Q141. c)PyArray
+Q142. d)All of the mentioned
+Q143. c)SparePanel
+Q144. A)spareList
+Q145. b)Two kinds of SpareseIndex are implemented
+Q146.c)SparseSeries.to_cooser(
+Q147. a)True
+Q149.b)ix
+Q150. a)True
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
