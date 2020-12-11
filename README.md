@@ -104,7 +104,29 @@ class core_forecast.SESAlgo(data_cls, alpha, name='ses')[source](https://www.sta
 * []() copy() = Copy the SES object
 
 ### Example
+Loading the required modules
 
+<img src="Images/Simple_Exponential_Smoothining/Importing_modules.png">
+
+Loading dataset
+
+<img src="Images/Simple_Exponential_Smoothining/Loading_dataset.png">
+
+Renaming the date columns and target column as required by DataClass
+
+<img src="Images/Simple_Exponential_Smoothining/Renaming_date_and_target_column.png">
+
+Creaiting an object of SES class
+
+<img src="Images/Simple_Exponential_Smoothining/Object_creation.png">
+
+Calling Train Method
+
+<img src="Images/Simple_Exponential_Smoothining/Training.png">
+
+Calling Predict Method
+
+<img src="Images/Simple_Exponential_Smoothining/Prediction.png">
 
 <!-- SARIMAX -->
 ## Sarimax
@@ -150,7 +172,7 @@ Creaiting an object of ARIMAX class
 
 <img src="Images/ARIMAX/Creating_arimax_object.png">
 
-Calling Traning Method
+Calling Train Method
 
 <img src="Images/ARIMAX/Traning.png">
 
@@ -196,7 +218,7 @@ Creaiting an object of LightGBMRegressor class
 
 <img src="Images/LightGBM/Creating_object.png">
 
-Calling Traning Method
+Calling Train Method
 
 <img src="Images/LightGBM/Training.png">
 
