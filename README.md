@@ -194,7 +194,7 @@ Renaming the date columns and target column as required by DataClass
 
 Creaiting an object of LightGBMRegressor class
 
-<img src="Images/LightGBM/Creaing_object.png">
+<img src="Images/LightGBM/Creating_object.png">
 
 Calling Traning Method
 
