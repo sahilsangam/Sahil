@@ -26,21 +26,24 @@
       <a href="#simple-exponential-smoothing">Simple Exponential smoothing</a>
       <ul>
         <li><a href="#parameters">Parameters</a></li>
-        <li><a href="#methods">Methods</a></li>
+        <li><a href="#methods">Methods</a></li></li>
+        <li><a href="#example">Example</a></li>
       </ul>
     </li>
     <li>
       <a href="#sarimax">Sarimax</a>
       <ul>
         <li><a href="#parameters">Parameters</a></li>
-        <li><a href="#methods">Methods</a></li>
+        <li><a href="#methods">Methods</a></li></li>
+        <li><a href="#example">Example</a></li>
       </ul>
     </li>
     <li>
       <a href="#lightgbmregressor">LightGBMRegressor</a>
       <ul>
         <li><a href="#parameters">Parameters</a></li>
-        <li><a href="#methods">Methods</a></li>
+        <li><a href="#methods">Methods</a></li></li>
+        <li><a href="#example">Example</a></li>
       </ul>
     </li>
   </ol>
@@ -100,6 +103,8 @@ class core_forecast.SESAlgo(data_cls, alpha, name='ses')[source](https://www.sta
 * []() predict() = Make predictions using the trained SES object
 * []() copy() = Copy the SES object
 
+### Example
+
 
 <!-- SARIMAX -->
 ## Sarimax
@@ -123,6 +128,7 @@ class core_forecast.ARIMAX(exog_list, endog, data_cls, pred_start_date, order, s
 * []() train() = Fit the model
 * []() predict() = Make predictions using the trained ARIMAX object
 * []() copy() = Copy the SES object
+
 ### Example
 Loading the required modules
 
