@@ -26,7 +26,7 @@
       <a href="#simple-exponential-smoothing">Simple Exponential smoothing</a>
       <ul>
         <li><a href="#parameters">Parameters</a></li>
-        <li><a href="#methods">Methods</a></li></li>
+        <li><a href="#methods">Methods</a></li>
         <li><a href="#example">Example</a></li>
       </ul>
     </li>
@@ -34,7 +34,7 @@
       <a href="#sarimax">Sarimax</a>
       <ul>
         <li><a href="#parameters">Parameters</a></li>
-        <li><a href="#methods">Methods</a></li></li>
+        <li><a href="#methods">Methods</a></li>
         <li><a href="#example">Example</a></li>
       </ul>
     </li>
@@ -42,7 +42,7 @@
       <a href="#lightgbmregressor">LightGBMRegressor</a>
       <ul>
         <li><a href="#parameters">Parameters</a></li>
-        <li><a href="#methods">Methods</a></li></li>
+        <li><a href="#methods">Methods</a></li>
         <li><a href="#example">Example</a></li>
       </ul>
     </li>
