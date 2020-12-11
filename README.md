@@ -132,31 +132,31 @@ class core_forecast.ARIMAX(exog_list, endog, data_cls, pred_start_date, order, s
 ### Example
 Loading the required modules
 
-<img src="Screenshot%202020-12-11%20092408.png">
+<img src="Images/ARIMAX/Importing_modules.png">
 
 Loading dataset
 
-<img src="Screenshot%202020-12-11%20092611.png">
+<img src="Images/ARIMAX/Importing_dataset.png">
 
 Renaming the date columns and target column as required by DataClass
 
-<img src="Screenshot%202020-12-11%20092642.png">
+<img src="Images/ARIMAX/Renaming_date_and_target_columns.png">
 
 Creating list of Exogenous and Endogenous variable
 
-<img src="Screenshot%202020-12-11%20092710.png">
+<img src="Images/ARIMAX/Creating_exo_and_endo_list.png">
 
 Creaiting an object of ARIMAX class
 
-<img src="Screenshot%202020-12-11%20092809.png">
+<img src="Images/ARIMAX/Creating_arimax_object.png">
 
 Calling Traning Method
 
-<img src="Screenshot%202020-12-11%20092853.png">
+<img src="Images/ARIMAX/Traning.png">
 
 Calling Predict Method
 
-<img src="Screenshot%202020-12-11%20092922.png">
+<img src="Images/ARIMAX/predicting.png">
 
 <!-- LIGHTGBMREGRESSOR -->
 ## LightGBMRegressor
@@ -182,26 +182,26 @@ class core_forecast.LGBMAlgo(data_cls, pred_start_date, horizon, grid, val_data_
 
 Loading the required modules
 
-<img src="Screenshot%202020-12-11%20094357.png">
+<img src="Images/LightGBM/Importing_modules.png">
 
 Loading dataset
 
-<img src="Screenshot%202020-12-11%20094433.png">
+<img src="Images/LightGBM/Importing_dataset.png">
 
 Renaming the date columns and target column as required by DataClass
 
-<img src="Screenshot%202020-12-11%20094521.png">
+<img src="Images/LightGBM/Renaming_date_and_target_columns.png">
 
 Creaiting an object of LightGBMRegressor class
 
-<img src="Screenshot%202020-12-11%20094549.png">
+<img src="Images/LightGBM/Creaing_object.png">
 
 Calling Traning Method
 
-<img src="Screenshot%202020-12-11%20094639.png">
+<img src="Images/LightGBM/Training.png">
 
 Calling Predict Method
 
-<img src="Screenshot%202020-12-11%20094725.png">
+<img src="Images/LightGBM/Prediction.png">
 
 
